@@ -1,0 +1,40 @@
+#background {
+    height: 920px;
+    width: 950px;
+    background-color: #d6d1b1;
+    margin: 0 auto;
+    padding-left: 30px;
+    display: inline-block;
+}
+
+
+#container {
+    display: flex;
+    margin: 20px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+    vertical-align: top;
+}
+
+
+#catandninja {
+    background-color: white;
+}
+
+.col1 {
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    margin: 0px;
+    padding: 10px;
+    background-color: #86B3EE;
+}
+
+.col1b {
+    display: inline-block;
+    border-style: solid;
+    border-width: 5px;
+    margin: 0px;
+    padding: 10px;
+    background-color: #EB666D;
+}
